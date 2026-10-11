@@ -7793,7 +7793,7 @@
   "trance-gate": {
     "first_release": "2026-09-29",
     "last_updated": "2026-10-11",
-    "version": "spectrogram-v2026.10.10.2",
+    "version": "bit-crusher-v2026.10.11.1",
     "release_dates": [
       "2026-09-29",
       "2026-10-08",
@@ -7809,6 +7809,7 @@
       "2026-10-09",
       "2026-10-09",
       "2026-10-09",
+      "2026-10-11",
       "2026-10-11",
       "2026-10-11",
       "2026-10-11",
@@ -7904,6 +7905,11 @@
         "prerelease": false,
         "published_at": "2026-10-11T14:15:58Z",
         "tag": "spectrogram-v2026.10.10.2"
+      },
+      {
+        "prerelease": false,
+        "published_at": "2026-10-11T15:50:52Z",
+        "tag": "bit-crusher-v2026.10.11.1"
       }
     ]
   },
