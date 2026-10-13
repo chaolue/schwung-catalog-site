@@ -1406,10 +1406,11 @@
   "pushnpull": {
     "first_release": "2026-06-26",
     "last_updated": "2026-10-12",
-    "version": "v0.3.0",
+    "version": "v0.3.1",
     "release_dates": [
       "2026-06-26",
       "2026-06-29",
+      "2026-10-12",
       "2026-10-12"
     ],
     "releases": [
@@ -1427,6 +1428,11 @@
         "prerelease": false,
         "published_at": "2026-10-12T02:36:47Z",
         "tag": "v0.3.0"
+      },
+      {
+        "prerelease": false,
+        "published_at": "2026-10-12T23:24:43Z",
+        "tag": "v0.3.1"
       }
     ]
   },
@@ -8262,11 +8268,12 @@
   },
   "tinyk": {
     "first_release": "2026-10-08",
-    "last_updated": "2026-10-10",
-    "version": "v1.0.0",
+    "last_updated": "2026-10-12",
+    "version": "v1.0.1",
     "release_dates": [
       "2026-10-08",
-      "2026-10-10"
+      "2026-10-10",
+      "2026-10-12"
     ],
     "releases": [
       {
@@ -8278,11 +8285,16 @@
         "prerelease": false,
         "published_at": "2026-10-10T22:09:29Z",
         "tag": "v1.0.0"
+      },
+      {
+        "prerelease": false,
+        "published_at": "2026-10-12T20:53:00Z",
+        "tag": "v1.0.1"
       }
     ],
     "channels": {
       "stable": {
-        "version": "v1.0.0"
+        "version": "v1.0.1"
       },
       "beta": {
         "version": "v0.9.0"
