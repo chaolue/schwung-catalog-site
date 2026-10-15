@@ -8400,8 +8400,9 @@
   "shimmerwash": {
     "first_release": "2026-10-15",
     "last_updated": "2026-10-15",
-    "version": "Version_1.0.0",
+    "version": "Version_1.0.1",
     "release_dates": [
+      "2026-10-15",
       "2026-10-15"
     ],
     "releases": [
@@ -8409,6 +8410,11 @@
         "prerelease": false,
         "published_at": "2026-10-15T14:36:56Z",
         "tag": "Version_1.0.0"
+      },
+      {
+        "prerelease": false,
+        "published_at": "2026-10-15T19:36:29Z",
+        "tag": "Version_1.0.1"
       }
     ]
   }
